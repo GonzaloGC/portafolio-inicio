@@ -1,2 +1,2 @@
-# portfolio-beta
-Es la beta del proyecto portafolio
+# portfolio-alpha
+Versión alfa del proyecto portafolio
